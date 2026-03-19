@@ -8,7 +8,7 @@ services:
     ports:
       - "5000:5000"
     environment:
-      - OPENWEATHER_API_KEY=${07eed3a040c2f5e42f38d70fb5744d68}
+      - OPENWEATHER_API_KEY=${36f5dba22eb0aa6ff94077a692163d36}
     restart: unless-stopped
     healthcheck:
       test: ["CMD", "curl", "-f", "http://localhost:5000/health"]
