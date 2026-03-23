@@ -81,6 +81,11 @@ Git → Jenkins → SonarQube → Trivy → Docker Build → Trivy Scan → AWS 
 
 ## Screenshots
 
+Weather app results
+
+<img width="1920" height="1080" alt="weather app working" src="https://github.com/user-attachments/assets/cda3f852-b39b-4b01-9fac-17ac66372f55" />
+<img width="1920" height="1080" alt="weather app dashboard" src="https://github.com/user-attachments/assets/b008b667-7ac2-46bf-b0a6-9c8befa6ee97" />
+
 CI CD Pipeline
 <img width="1920" height="1080" alt="Successfull pipeline" src="https://github.com/user-attachments/assets/ac7c5231-a9ac-447c-a896-0fa48920ab9c" />
 
@@ -109,7 +114,4 @@ Promethius & Grafana
 <img width="1920" height="1080" alt="Screenshot 2026-03-23 150742" src="https://github.com/user-attachments/assets/ff666eee-f71d-49e0-8846-a9cae5083aad" />
 <img width="1920" height="1080" alt="Screenshot 2026-03-23 150701" src="https://github.com/user-attachments/assets/e1adccc0-8b3c-4d66-a040-5422341932a3" />
 
-Weather app results
 
-<img width="1920" height="1080" alt="weather app working" src="https://github.com/user-attachments/assets/cda3f852-b39b-4b01-9fac-17ac66372f55" />
-<img width="1920" height="1080" alt="weather app dashboard" src="https://github.com/user-attachments/assets/b008b667-7ac2-46bf-b0a6-9c8befa6ee97" />
