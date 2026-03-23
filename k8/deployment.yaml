@@ -14,6 +14,6 @@ spec:
     spec:
       containers:
         - name: weather-api
-          image: 958006149889.dkr.ecr.ap-south-1.amazonaws.com/weatherapp
+          image: 958006149889.dkr.ecr.ap-south-1.amazonaws.com/weather-api
           ports:
             - containerPort: 5000
